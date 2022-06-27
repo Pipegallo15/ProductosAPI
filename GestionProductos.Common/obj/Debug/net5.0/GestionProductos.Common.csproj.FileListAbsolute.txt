@@ -1,0 +1,12 @@
+D:\GestionAPI\GestionProductos.Common\bin\Debug\net5.0\GestionProductos.Common.deps.json
+D:\GestionAPI\GestionProductos.Common\bin\Debug\net5.0\GestionProductos.Common.dll
+D:\GestionAPI\GestionProductos.Common\bin\Debug\net5.0\GestionProductos.Common.pdb
+D:\GestionAPI\GestionProductos.Common\obj\Debug\net5.0\GestionProductos.Common.csproj.AssemblyReference.cache
+D:\GestionAPI\GestionProductos.Common\obj\Debug\net5.0\GestionProductos.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\GestionAPI\GestionProductos.Common\obj\Debug\net5.0\GestionProductos.Common.AssemblyInfoInputs.cache
+D:\GestionAPI\GestionProductos.Common\obj\Debug\net5.0\GestionProductos.Common.AssemblyInfo.cs
+D:\GestionAPI\GestionProductos.Common\obj\Debug\net5.0\GestionProductos.Common.csproj.CoreCompileInputs.cache
+D:\GestionAPI\GestionProductos.Common\obj\Debug\net5.0\GestionProductos.Common.dll
+D:\GestionAPI\GestionProductos.Common\obj\Debug\net5.0\refint\GestionProductos.Common.dll
+D:\GestionAPI\GestionProductos.Common\obj\Debug\net5.0\GestionProductos.Common.pdb
+D:\GestionAPI\GestionProductos.Common\obj\Debug\net5.0\ref\GestionProductos.Common.dll
